@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 - 🔭 I’m currently working for Gameblazers as a software engineering intern, working with the executives to deliver the best possible user experience.
 - 💻 I’m doing front end and backend work using frameworks and libraries such as NextJS, NextUI, NodeJS, tRPC, Zod, Prisma, and Tailwind.
