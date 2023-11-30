@@ -6,4 +6,5 @@
 - 🎙️ Talk to me about anything sports, video games or coding
 - 📫 How to reach me: ryanzillini@gmail.com
 - ⚡ Fun fact: I had the oppurtunity to play hockey with Mark Messier
-- 
+
+(https://www.typescriptlang.org/)
