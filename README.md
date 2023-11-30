@@ -1,4 +1,4 @@
-#  **    Hi there, I'm Ryan 🎮
+#  **    Hi there, I'm Ryan 🎮 **
 
 - 🔭 I’m currently working for Gameblazers as a software engineering intern. working with the executives to deliver the best possible user experience.
 - 💻 I am working with the executives of the company to deliver the best possible user experience which includes the front and back end.
