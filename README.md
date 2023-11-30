@@ -7,4 +7,3 @@
 - 📫 How to reach me: ryanzillini@gmail.com
 - ⚡ Fun fact: I had the oppurtunity to play hockey with Mark Messier
 
-(https://www.typescriptlang.org/)
